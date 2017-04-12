@@ -1,4 +1,4 @@
-$main: #1a222c;
+$main: <img alt="home" src="{{ "/assets/img/home.png" | prepend: site.baseurl }}" />;
 $sec: #4B5664;
 $purple: #54516A;
 $cut: 768px;
