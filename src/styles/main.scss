@@ -1,6 +1,6 @@
-$main: <img alt="home" src="{{ "/assets/img/home.png" | prepend: site.baseurl }}" />;
-$sec: #4B5664;
-$purple: #54516A;
+$main: src="{{"/assets/img/home.png" | prepend: site.baseurl }}";
+$sec: src="{{"/assets/img/home.png" | prepend: site.baseurl }}";
+$purple: src="{{"/assets/img/home.png" | prepend: site.baseurl }}";
 $cut: 768px;
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
