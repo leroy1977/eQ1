@@ -12,9 +12,11 @@ user_description: Organizada a partir da experiência de mais de 15 anos de sua 
                 Nossa atuação técnica é pautada na utilização de conhecimento e ferramentas de vanguarda, atuando em conjunto com metodologias consolidadas e reconhecidas.
 user_title: Diligentia laborat omnis silvae et maria
 email: eQ@gmail.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+facebook_username:  @eQuanta.env
+
 
 # Google-analytics
 google-analytics:
