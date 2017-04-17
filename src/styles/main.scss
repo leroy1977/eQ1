@@ -1,4 +1,4 @@
-$main: <img alt="mountains" src="{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}" />;
+$main: #1a222c;
 $sec: #4B5664;
 $purple: #54516A;
 $cut: 768px;
@@ -55,7 +55,7 @@ body {
 }
 
 #particles-js {
-  background: $main;
+  background: src="{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}";
   display: block;
   vertical-align: bottom;
   width: 100vw;
