@@ -5,6 +5,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://leroy1977.github.io/eQ1/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 # Diligentia laborat in omnis silvae, flumem et maria.
 
+# enable automatic sitemap generation
+gems:
+  - jekyll-sitemap
+
 # User settings
 username: eQuanta
 user_description: Organizada a partir da experiência de mais de 15 anos de sua equipe base, a eQuanta iniciou suas atividades de estudos ambientais em 2013, propondo abordagens orgânicas de cooperação e sinergia entre profissionais e clientes, aliando rigor técnico, custo-efetividade e excelência nas relações.
