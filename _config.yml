@@ -6,8 +6,8 @@ url: https://leroy1977.github.io/eQ1/ # the base hostname & protocol for your si
 # Diligentia laborat in omnis silvae, flumem et maria.
 
 # enable automatic sitemap generation
-# gems:
-#  - jekyll-sitemap
+gems:
+       - jekyll-sitemap
 
 # User settings
 username: eQuanta
