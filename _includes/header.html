@@ -1,28 +1,20 @@
 <div id="particles-js">
- <div class="site-header is-scrolling-down">
-    <div class="container-wide">
-        <h1 class="logo" itemscope="" itemtype="http://schema.org/Organization">
-            <a href="http://www.equanta.com.br/" itemprop="url">
-                <span class="sr-only" itemprop="name">eQuanta</span>
-                <img src="/assets/img/eQuanta_footer.svg" alt="eQuanta logo">
-            </a>
-        </h1>
-        <div class="site-header-panel">
-            <nav class="site-navigation">
-                <ul class="site-navigation-list">
-                    <li class="mobile-only is-active">
-						<a href="#projects">O que fazemos</a>
-					</li>
-					<li>
-						<a href="#about">Quem Somos</a>
-					</li>
-					</ul>
-            </nav>
-        </div>
-
-        <div class="site-header-cta">
-            <a class="btn" href="#about">Que Somos<span></span></a>
-        </div>
-    </div>
-</div>
+  <div class="content">
+      <h1>
+        <span class="site-title">{{site.username}}</span>
+        <span class="site-description">{{site.user_title}}</span>
+      </h1>
+      <div class="icons-header">
+        <a aria-label="Send email" href="mailto:{{site.email}}"><i class="icon fa fa-envelope"></i></a>
+        <a aria-label="Facebook" target="_blank" href="https://www.facebook.com/eQuanta.env"><i class="icon fa fa-facebook" aria-hidden="true"></i></a>
+        <!-- <a aria-label="Facebook" target="_blank" href="https://www.instagram.com/eQuanta.env{{site.facebook_username}}"><i class="icon fa fa-instagram" aria-hidden="true"></i></a> -->
+       <!-- <a aria-label="My Twitter" target="_blank" href="https://twitter.com/{{site.twitter_username}}"><i class="icon fa fa-twitter" aria-hidden="true"></i></a> -->
+       <!-- <a aria-label="My Google Plus" target="_blank" href="https://plus.google.com/{{site.gplus_username}}/posts"><i class="icon fa fa-google-plus" aria-hidden="true"></i></a> -->
+      </div>
+      <a class="link" href="#about" data-scroll>quem somos</a>
+      &#11202;
+      <a class="link" href="#projects" data-scroll>o que fazemos</a>
+      
+  </div>
+  <!-- <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a> -->
 </div>
