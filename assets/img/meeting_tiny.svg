@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 60 61"
+   xml:space="preserve"
+   sodipodi:docname="meeting_tiny.svg"
+   width="60"
+   height="61"
+   inkscape:version="0.92.4 (unknown)"><metadata
+   id="metadata73"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs71" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1239"
+   inkscape:window-height="776"
+   id="namedview69"
+   showgrid="false"
+   inkscape:zoom="5.4713836"
+   inkscape:cx="26.285469"
+   inkscape:cy="41.780112"
+   inkscape:window-x="41"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+
+
+
+
+
+<g
+   style="stroke-width:8"
+   id="g6"
+   transform="matrix(0.125,0,0,0.125,-0.5,0)">
+	<g
+   style="stroke-width:8"
+   id="g4">
+		<path
+   style="stroke-width:8"
+   inkscape:connector-curvature="0"
+   d="M 450.408,168.648 C 461.208,158.432 468,144.008 468,128 468,97.12 442.88,72 412,72 c -30.88,0 -56,25.12 -56,56 0,19.648 10.192,36.936 25.544,46.928 C 370.968,182.136 364,194.264 364,208 v 56 H 332 V 224 C 332,195.376 310.4,171.728 282.64,168.432 293.312,158.232 300,143.896 300,128 300,97.12 274.88,72 244,72 c -30.88,0 -56,25.12 -56,56 0,15.896 6.688,30.232 17.36,40.432 C 177.6,171.728 156,195.376 156,224 v 40 h -32 v -56 c 0,-13.736 -6.968,-25.864 -17.544,-33.072 C 121.808,164.936 132,147.648 132,128 132,97.12 106.88,72 76,72 45.12,72 20,97.12 20,128 c 0,16.008 6.792,30.432 17.592,40.648 C 18.592,171.736 4,188.136 4,208 v 120 c 0,19.312 13.768,35.472 32,39.192 V 488 H 52 V 368 h 72 v 112 c 0,4.416 3.584,8 8,8 h 48 c 4.416,0 8,-3.584 8,-8 V 352 h 48 v 120 h -32 v 16 h 80 V 472 H 252 V 352 h 48 v 128 c 0,4.416 3.584,8 8,8 h 48 c 4.416,0 8,-3.584 8,-8 V 368 h 72 v 120 h 16 V 367.192 C 470.232,363.472 484,347.32 484,328 V 208 c 0,-19.864 -14.592,-36.264 -33.592,-39.352 z M 372,128 c 0,-22.056 17.944,-40 40,-40 22.056,0 40,17.944 40,40 0,22.056 -17.944,40 -40,40 -22.056,0 -40,-17.944 -40,-40 z m -168,0 c 0,-22.056 17.944,-40 40,-40 22.056,0 40,17.944 40,40 0,22.056 -17.944,40 -40,40 -22.056,0 -40,-17.944 -40,-40 z M 256.456,184 244,217.216 231.544,184 Z M 172,224 c 0,-22.056 17.944,-40 40,-40 h 2.456 l 22.056,58.808 c 1.168,3.12 4.152,5.192 7.488,5.192 3.336,0 6.32,-2.072 7.496,-5.192 L 273.544,184 H 276 c 22.056,0 40,17.944 40,40 v 40 h -32 c -4.416,0 -8,3.584 -8,8 v 32 h -64 v -32 c 0,-4.416 -3.584,-8 -8,-8 H 172 Z M 36,128 c 0,-22.056 17.944,-40 40,-40 22.056,0 40,17.944 40,40 0,22.056 -17.944,40 -40,40 -22.056,0 -40,-17.944 -40,-40 z M 172,472 H 140 V 360 c 0,-4.416 -3.584,-8 -8,-8 H 44 C 30.768,352 20,341.232 20,328 V 208 c 0,-13.232 10.768,-24 24,-24 h 40 c 13.232,0 24,10.768 24,24 v 64 c 0,4.416 3.584,8 8,8 h 80 v 24 H 84 V 232 H 68 v 80 c 0,4.416 3.584,8 8,8 h 72 c 13.232,0 24,10.768 24,24 z M 300.896,336 H 187.104 c -1.208,-5.896 -3.632,-11.352 -7.12,-16 H 204 h 80 24.016 c -3.488,4.648 -5.912,10.104 -7.12,16 z M 468,328 c 0,13.232 -10.768,24 -24,24 h -88 c -4.416,0 -8,3.584 -8,8 V 472 H 316 V 344 c 0,-13.232 10.768,-24 24,-24 h 72 c 4.416,0 8,-3.584 8,-8 v -80 h -16 v 72 H 292 v -24 h 80 c 4.416,0 8,-3.584 8,-8 v -64 c 0,-13.232 10.768,-24 24,-24 h 40 c 13.232,0 24,10.768 24,24 z"
+   id="path2" />
+	</g>
+</g><g
+   style="stroke-width:8"
+   id="g12"
+   transform="matrix(0.125,0,0,0.125,-0.5,0)">
+	<g
+   style="stroke-width:8"
+   id="g10">
+		<rect
+   style="stroke-width:8"
+   x="236"
+   y="264"
+   width="16"
+   height="16"
+   id="rect8" />
+	</g>
+</g><g
+   style="stroke-width:8"
+   id="g18"
+   transform="matrix(0.125,0,0,0.125,-0.5,0)">
+	<g
+   style="stroke-width:8"
+   id="g16">
+		<path
+   style="stroke-width:8"
+   inkscape:connector-curvature="0"
+   d="M 204,0 H 92 c -4.416,0 -8,3.584 -8,8 v 40 c 0,4.416 3.584,8 8,8 h 32 v 16 c 0,3.032 1.712,5.8 4.424,7.16 1.128,0.56 2.36,0.84 3.576,0.84 1.696,0 3.384,-0.544 4.8,-1.6 L 166.664,56 H 204 c 4.416,0 8,-3.584 8,-8 V 8 c 0,-4.416 -3.584,-8 -8,-8 z m -8,40 h -32 c -1.728,0 -3.416,0.56 -4.8,1.6 L 140,56 v -8 c 0,-4.416 -3.584,-8 -8,-8 H 100 V 16 h 96 z"
+   id="path14" />
+	</g>
+</g><g
+   style="stroke-width:8"
+   id="g24"
+   transform="matrix(0.125,0,0,0.125,-0.5,0)">
+	<g
+   style="stroke-width:8"
+   id="g22">
+		<rect
+   style="stroke-width:8"
+   x="284"
+   y="24"
+   width="16"
+   height="16"
+   id="rect20" />
+	</g>
+</g><g
+   style="stroke-width:8"
+   id="g30"
+   transform="matrix(0.125,0,0,0.125,-0.5,0)">
+	<g
+   style="stroke-width:8"
+   id="g28">
+		<rect
+   style="stroke-width:8"
+   x="316"
+   y="24"
+   width="16"
+   height="16"
+   id="rect26" />
+	</g>
+</g><g
+   style="stroke-width:8"
+   id="g36"
+   transform="matrix(0.125,0,0,0.125,-0.5,0)">
+	<g
+   style="stroke-width:8"
+   id="g34">
+		<rect
+   style="stroke-width:8"
+   x="348"
+   y="24"
+   width="16"
+   height="16"
+   id="rect32" />
+	</g>
+</g>
+<g
+   id="g38"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g40"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g42"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g44"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g46"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g48"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g50"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g52"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g54"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g56"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g58"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g60"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g62"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g64"
+   transform="translate(-4,-427)">
+</g>
+<g
+   id="g66"
+   transform="translate(-4,-427)">
+</g>
+</svg>
