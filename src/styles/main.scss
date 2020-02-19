@@ -55,7 +55,7 @@ body {
 }
 
 #particles-js {
-  img alt="" src="{{ "/assets/img/BA7872335B8C.jpg" | prepend: site.baseurl }}";
+  img src="/assets/img/BA7872335B8C.jpg";
   vertical-align: bottom;
   width: 100vw;
   min-height: 100vh;
