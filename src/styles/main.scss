@@ -55,7 +55,8 @@ body {
 }
 
 #particles-js {
-  img src="/assets/img/BA7872335B8C.jpg";
+  background: $main;
+  display: block;
   vertical-align: bottom;
   width: 100vw;
   min-height: 100vh;
