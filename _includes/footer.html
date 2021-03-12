@@ -17,8 +17,28 @@
                 <!--<td align="center"><a href="https://www.facebook.com/eQuanta.env{{site.facebook_username}}"><font color="#ffffff">FACEBOOK</font></a></td> -->
                 </tr> </p>
   
+  <!--VOU COMENTAR O BOTÃO DO CRISP PARA VALIDAR O BOTÃO DO WHATSAPP-->
+  <!--
   <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="610cd497-9174-4894-a153-6a62efc1ec96";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-    
+    -->
+  
+  <!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+55(11)985380253", // WhatsApp number
+            call_to_action: "", // Call to action
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+  
+  
     <p>&copy; {{site.username}} &bull; {{site.description}} &reg; &bull; 2021</p>
     <!--<p> {% include fb-like.html %} </p> -->
     <p>Derivado de N.R.'s WP Theme</p>
