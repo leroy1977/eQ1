@@ -22,8 +22,10 @@
   <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="610cd497-9174-4894-a153-6a62efc1ec96";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     -->
   
+ 
   <!-- GetButton.io widget -->
-<script type="text/javascript">
+ <!--
+  <script type="text/javascript">
     (function () {
         var options = {
             whatsapp: "+55(11)985380253", // WhatsApp number
@@ -35,8 +37,24 @@
         s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
         var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
     })();
-</script>
+</script> -->
 <!-- /GetButton.io widget -->
+  
+  $(function() {
+  $('#WAButton').floatingWhatsApp({
+    phone: '+55(11)985380253', //WhatsApp Business phone number International format-
+    //Get it with Toky at https://toky.co/en/features/whatsapp.
+    headerTitle: 'Chat with us on WhatsApp!', //Popup Title
+    popupMessage: 'Hello, how can we help you?', //Popup Message
+    showPopup: true, //Enables popup display
+    buttonImage: '<img src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/whatsapp.svg" />', //Button Image
+    //headerColor: 'crimson', //Custom header color
+    //backgroundColor: 'crimson', //Custom background button color
+    position: "right"    
+  });
+});
+  
+  
   
   
     <p>&copy; {{site.username}} &bull; {{site.description}} &reg; &bull; 2021</p>
