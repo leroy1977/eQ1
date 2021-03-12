@@ -40,6 +40,8 @@
 </script> -->
 <!-- /GetButton.io widget -->
   
+  <!--
+    <script type="text/javascript">
   $(function() {
   $('#WAButton').floatingWhatsApp({
     phone: '+55(11)985380253', //WhatsApp Business phone number International format-
@@ -53,9 +55,23 @@
     position: "right"    
   });
 });
+--> 
   
-  
-  
+      <script type="text/javascript">  
+   $(function () {
+           $('#WAButton').floatingWhatsApp({
+               phone: '+55(11)985380253', //WhatsApp Business phone number
+               headerTitle: 'Converse conosco no WhatsApp!', //Popup Title
+               popupMessage: 'Olá, Como podemos ajudá-lo?', //Popup Message
+               showPopup: true, //Enables popup display
+               buttonImage: '<img src="whatsapp.svg" />', //Button Image
+               //headerColor: 'crimson', //Custom header color
+               //backgroundColor: 'crimson', //Custom background button color
+               position: "right" //Position: left | right
+
+           });
+       });
+</script>  
   
     <p>&copy; {{site.username}} &bull; {{site.description}} &reg; &bull; 2021</p>
     <!--<p> {% include fb-like.html %} </p> -->
